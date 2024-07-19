@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717684526 source:d:\code_yatin_c\string_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

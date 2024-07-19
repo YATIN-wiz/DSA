@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718200288 source:d:\code_yatin_c\fibinacci_series_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

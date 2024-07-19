@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1718364625 source:d:\code_yatin_c\matrix_operations\operations.c
+	"Matrix_operations.h"
+
+1718364625 d:\code_yatin_c\matrix_operations\matrix_operations.h
+
+1718364659 source:d:\code_yatin_c\matrix_operations\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operations.c"
+
+1718364625 d:\code_yatin_c\matrix_operations\operations.c
+	"Matrix_operations.h"
+

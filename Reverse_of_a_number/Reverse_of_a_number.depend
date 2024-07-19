@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717336943 source:d:\code_yatin_c\reverse_of_a_number\main.c
+	<stdio.h>
+	<stdlib.h>
+

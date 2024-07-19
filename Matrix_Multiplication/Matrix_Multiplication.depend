@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718198664 source:d:\code_yatin_c\matrix_multiplication\main.c
+	<stdio.h>
+	<stdlib.h>
+

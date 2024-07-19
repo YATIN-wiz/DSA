@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717335488 source:d:\code_yatin_c\calculating_the_number_of_digits\main.c
+	<stdio.h>
+	<stdlib.h>
+
